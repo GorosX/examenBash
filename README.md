@@ -9,7 +9,7 @@ apt-get install git -y
 2. Paso:
 
 ```
-git clone https://GorosX/examenBash.git
+git clone https://github.com/GorosX/examenBash.git
 ```
 
 3. Paso:
